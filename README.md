@@ -133,6 +133,11 @@ python3 shark_attack.py --exploit
 python3 shark_attack.py --priv-esc
 ```
 
+
+## 🔗 Stay Updated
+For the latest updates, join our Telegram channel: [Sincryption](https://t.me/sincryption)
+
+
 ---
 
 ## 🚨 Disclaimer
