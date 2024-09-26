@@ -1,0 +1,14 @@
+
+{
+    "scanning": {
+        "port_range": "1-65535",
+        "timeout": 1
+    },
+    "brute_force": {
+        "max_attempts": 5
+    },
+    "reverse_shell": {
+        "default_ip": "0.0.0.0",
+        "default_port": 4444
+    }
+}
